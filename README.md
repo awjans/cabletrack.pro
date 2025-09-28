@@ -83,6 +83,10 @@ npm run lint
 
 Please read [CONTRIBUTING](CONTRIBUTING.md) for details on the process for submitting pull requests to us.
 
+## Code of Conduct
+
+Please read [CODE OF CONDUCT](CODE_OF_CONDUCT.md) for details on the process for submitting pull requests to us.
+
 ## Versioning
 
 We use [Semantic Versioning](http://semver.org/). For the versions available, see the [tags on this repository](https://github.com/awjans/cabletrack.pro/tags). 
