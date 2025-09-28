@@ -1,4 +1,4 @@
-# cabletrack.pro
+# Cable Track Pro
 
 Cable Track Pro is a app designed to make documenting the pulling of cables by electricians and others easier. It imports cable data from comma-separated-value (CSV) or JavaScript Object Notation (JSON) files and exports in a format that can be imported by Building Information Management (BIM) applications.
 
